@@ -1,7 +1,10 @@
 Bonjour et bienvenue sur mon Github !
 
 Avant de plonger dans le monde de l'informatique, j'ai une passion qui me tient à cœur : la pêche 🎣 et la musculation 🏋️‍♂️. Ces activités m'apportent énormément, notamment en termes de patience, de discipline et de persévérance. 
-Dans la pêche, par exemple, chaque sortie est une leçon d'apprentissage🗒️: si une technique ne fonctionne pas, j'essaie une autre jusqu'à obtenir les résultats escomptés. Cela reflète également ma mentalité dans le domaine de l'intelligence artificielle (IA) et dans la vie en général. En effet, la recherche et l'apprentissage en IA nécessitent également des essais, des erreurs et une détermination sans relâche pour réussir.
+
+Dans la pêche, par exemple, chaque sortie est une leçon d'apprentissage 🗒️: si une technique ne fonctionne pas, j'essaie une autre jusqu'à obtenir les résultats escomptés. 
+
+Cela reflète également ma mentalité dans le domaine de l'intelligence artificielle (IA) et dans la vie en général. En effet, la recherche et l'apprentissage en IA nécessitent également des essais, des erreurs et une détermination sans relâche pour réussir 🔥.
 
 J'ai choisi de poursuivre ma passion pour la programmation et l'IA afin de combiner mes compétences techniques avec les qualités que j'ai développées grâce à mes loisirs. 
 
