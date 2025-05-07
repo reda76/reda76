@@ -2,7 +2,7 @@ Bonjour et bienvenue sur mon Github !
 
 Avant de plonger dans le monde de l'informatique, j'ai une passion qui me tient à cœur : la pêche et la musculation. Ces activités m'apportent énormément, notamment en termes de patience, de discipline et de persévérance. 
 
-Dans la pêche, par exemple, chaque sortie est une leçon d'apprentissage 🗒️: si une technique ne fonctionne pas, j'essaie une autre jusqu'à obtenir les résultats escomptés. 
+Dans la pêche, par exemple, chaque sortie est une leçon d'apprentissage : si une technique ne fonctionne pas, j'essaie une autre jusqu'à obtenir les résultats escomptés. 
 
 Cela reflète également ma mentalité dans le domaine de l'intelligence artificielle (IA) et dans la vie en général. En effet, la recherche et l'apprentissage en IA nécessitent également des essais, des erreurs et une détermination sans relâche pour réussir.
 
@@ -14,7 +14,7 @@ Je suis Ingénieur spécialisé en Data Science et Machine Learning 🤖
 
 🎯 Fort de mes compétences en Data Science et Machine Learning, j'ai mené à bien 10 projets d'entreprise avec succès. Mon expertise englobe la conception et la mise en œuvre de modèles de Machine Learning et de Deep Learning, me permettant de résoudre des problèmes complexes et d'optimiser les performances des modèles existants.
 
-🌐 Par ailleurs, j'ai acquis de l'expérience dans la réalisation de sites web. J'ai participé à la création du Portail HEC Polytechnique 🎓, ainsi qu'à une application front-end d'analyse de code Python en utilisant ReactJS.
+🌐 Par ailleurs, j'ai acquis de l'expérience dans la réalisation de sites web. J'ai participé à la création du Portail HEC Polytechnique, ainsi qu'à une application front-end d'analyse de code Python en utilisant ReactJS.
 
 📚 En complément de mes compétences techniques, j'ai développé de solides compétences rédactionnelles et en présentation grâce à la réalisation de tutoriels en machine learning et Git pour les étudiants de HEC Polytechnique.
 
