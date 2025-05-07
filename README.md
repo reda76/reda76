@@ -12,7 +12,7 @@ J'espère que mon profil GitHub reflète ma passion, mes compétences, ma déter
 
 Je suis Ingénieur spécialisé en Data Science et Machine Learning 🤖
 
-🎯 Fort de mes compétences en Data Science et Machine Learning, j'ai mené à bien 10 projets d'entreprise avec succès. Mon expertise englobe la conception et la mise en œuvre de modèles de Machine Learning et de Deep Learning, me permettant de résoudre des problèmes complexes et d'optimiser les performances des modèles existants. 📈
+🎯 Fort de mes compétences en Data Science et Machine Learning, j'ai mené à bien 10 projets d'entreprise avec succès. Mon expertise englobe la conception et la mise en œuvre de modèles de Machine Learning et de Deep Learning, me permettant de résoudre des problèmes complexes et d'optimiser les performances des modèles existants.
 
 🌐 Par ailleurs, j'ai acquis de l'expérience dans la réalisation de sites web. J'ai participé à la création du Portail HEC Polytechnique 🎓, ainsi qu'à une application front-end d'analyse de code Python en utilisant ReactJS.
 
