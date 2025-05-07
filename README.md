@@ -1,16 +1,16 @@
 Bonjour et bienvenue sur mon Github !
 
-Avant de plonger dans le monde de l'informatique, j'ai une passion qui me tient à cœur : la pêche 🎣 et la musculation 🏋️‍♂️. Ces activités m'apportent énormément, notamment en termes de patience, de discipline et de persévérance. 
+Avant de plonger dans le monde de l'informatique, j'ai une passion qui me tient à cœur : la pêche et la musculation. Ces activités m'apportent énormément, notamment en termes de patience, de discipline et de persévérance. 
 
 Dans la pêche, par exemple, chaque sortie est une leçon d'apprentissage 🗒️: si une technique ne fonctionne pas, j'essaie une autre jusqu'à obtenir les résultats escomptés. 
 
-Cela reflète également ma mentalité dans le domaine de l'intelligence artificielle (IA) et dans la vie en général. En effet, la recherche et l'apprentissage en IA nécessitent également des essais, des erreurs et une détermination sans relâche pour réussir 🔥.
+Cela reflète également ma mentalité dans le domaine de l'intelligence artificielle (IA) et dans la vie en général. En effet, la recherche et l'apprentissage en IA nécessitent également des essais, des erreurs et une détermination sans relâche pour réussir.
 
 J'ai choisi de poursuivre ma passion pour la programmation et l'IA afin de combiner mes compétences techniques avec les qualités que j'ai développées grâce à mes loisirs. 
 
 J'espère que mon profil GitHub reflète ma passion, mes compétences, ma détermination et ma philosophie de vie. Je suis ouvert aux opportunités professionnelles et aux collaborations dans le domaine de l'informatique et de l'IA. 
 
-🚀Je suis Ingénieur spécialisé en Data Science et Machine Learning 🤖
+Je suis Ingénieur spécialisé en Data Science et Machine Learning 🤖
 
 🎯 Fort de mes compétences en Data Science et Machine Learning, j'ai mené à bien 10 projets d'entreprise avec succès. Mon expertise englobe la conception et la mise en œuvre de modèles de Machine Learning et de Deep Learning, me permettant de résoudre des problèmes complexes et d'optimiser les performances des modèles existants. 📈
 
@@ -20,9 +20,9 @@ J'espère que mon profil GitHub reflète ma passion, mes compétences, ma déter
 
 🎬 De plus, grâce à mon expérience chez Digifab, je me suis spécialisé dans la scénarisation pédagogique des modules E-learning (Cyberapprentissage) : structure pédagogique, rédaction du storyboard, création des activités d'apprentissage, storytelling, et bien plus encore... 
 
-🌟 Explorer mes projets et contactez moi si vous avez des questions ou des propositions intéressantes 📩!
+🌟 Explorer mes projets et contactez moi si vous avez des questions ou des propositions intéressantes !
 
-Merci de votre visite et bonne découverte🚗 !  
+Merci de votre visite et bonne découverte !  
 
 ## Hard skill
 
@@ -79,7 +79,7 @@ Tous  les  projets  ont été développés  avec  les  skill  suivant  :
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/?view=cm&fs=1&to=derraz.mohamedreda@gmail.com&su=SUBJECT&body=BODY&bcc=derraz.mohamedreda@gmail.com]]) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/) [ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/mohamed-r%C3%A9da-derraz-1164a7227/) 
 
-# Aperçu des projets💻
+# Aperçu des projets 💻
 
 ## Analyse et visualisation des données 📊
 
